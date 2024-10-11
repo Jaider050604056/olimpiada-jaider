@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(206, 206, 206);
+}
+
+.container{
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.offcanvas-body{
+    font-size: large;
+}
+
+#header{
+    position: sticky;
+    z-index: 10;
+    top: 0;
+}
